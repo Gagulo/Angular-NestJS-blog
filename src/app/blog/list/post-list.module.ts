@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { PostListComponent } from './post-list.component';
-import { MaterialModule } from 'src/app/shared/material.module';
+import { MaterialModule } from '../../shared/material.module';
 
 @NgModule({
   declarations: [PostListComponent],
